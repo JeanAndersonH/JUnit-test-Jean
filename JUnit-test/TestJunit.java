@@ -20,7 +20,7 @@ public class TestJunit {
 	@Test
 	  public void testMult() {
 	    Calculadora calc = new Calculadora(8, 10);
-	    assertEquals(0, calc. multiplicar());
+	    assertEquals(80, calc. multiplicar());
 
 	  }
 	
